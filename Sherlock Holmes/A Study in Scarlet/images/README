@@ -1,0 +1,6 @@
+Thanks to GutenMark for the images!
+Source: http://www.sandroid.org/GutenMark/wasftp.GutenMark/MarkedTexts/
+
+Changes done to the images:
+ * Converted the images for compability reasons with pdflatex to png:
+   for i in *.gif; do convert "$i" "${i%gif}png";rm "$i"; done
