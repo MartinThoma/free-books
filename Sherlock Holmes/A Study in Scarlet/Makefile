@@ -1,5 +1,5 @@
 make:
-	pdflatex a-study-in-scarlet.tex -output-format=pdf
+	pdflatex A-Study-in-Scarlet.tex -output-format=pdf
 	make clean
 
 clean:
