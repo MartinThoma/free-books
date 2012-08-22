@@ -26,3 +26,8 @@ All books that get uploaded have to match these rules:
  * The LaTeX-document has to be encoded in utf-8 (check with $ file -bi [filename])
  * Every books has to have its own Makefile, with which it produces
    a PDF document
+
+Special versions of the books
+=============================
+Create a version for Kindle:
+http://tex.stackexchange.com/a/16737/5645
