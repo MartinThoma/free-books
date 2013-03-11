@@ -31,3 +31,8 @@ Special versions of the books
 =============================
 Create a version for Kindle:
 http://tex.stackexchange.com/a/16737/5645
+
+More book sources
+=================
+* [Project Gutenberg Australia](http://gutenberg.net.au/)
+* [George Orwell's 1984 and Animal Farm](http://msxnet.org/orwell/)
