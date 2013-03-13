@@ -1,32 +1,38 @@
 % Thanks to Project GutenMark
 % Source: http://www.sandroid.org/GutenMark/wasftp.GutenMark/MarkedTexts/
 
-\documentclass[12pt,english]{book}
+\documentclass[12pt,english,oneside]{book}
 \usepackage{newcent}
 \usepackage[T1]{fontenc}
-\usepackage[latin1]{inputenc}
-\usepackage{geometry}
-\geometry{verbose,paperwidth=5.5in,paperheight=8.5in,tmargin=0.75in,bmargin=0.75in,lmargin=1in,rmargin=1in}
+\usepackage[utf8]{inputenc}
+\usepackage[a5paper]{geometry}
 \setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{3}
+\usepackage{graphicx}
+\usepackage{hyperref}  % add information to the pdf
+
+\usepackage{type1cm}
+\usepackage{lettrine}
+
+\hypersetup{ 
+  pdfauthor   = {Jane Austen},
+  pdfkeywords = {Jane Austen, Pride and Prejudice},
+  pdftitle    = {Pride and Prejudice},
+  pdfsubject  = {novel}
+}
 
 \makeatletter
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% LyX specific LaTeX commands.
-\newcommand{\noun}[1]{\textsc{#1}}
-
-\usepackage{babel}
+    \newcommand{\noun}[1]{\textsc{#1}}
+    \usepackage{babel}
 \makeatother
+
 \begin{document}
-\sloppy
-
-\evensidemargin = -0.25in
-
-\oddsidemargin = 0.25in
 
 \pagestyle{empty}
 
-\date{}
+
+
+\date{} % Don't display the date on the title page
 
 \raggedbottom
 
@@ -64,7 +70,7 @@ Date: 01/12/08\end{center}
 
 \markboth{Pride and Prejudice}{Chapter 1}
 
-It is a truth universally acknowledged, that a single man in possession
+\lettrine[lines=2]{I}{t} is a truth universally acknowledged, that a single man in possession
 of a good fortune, must be in want of a wife.
 
 However little known the feelings or views of such a man may be on
