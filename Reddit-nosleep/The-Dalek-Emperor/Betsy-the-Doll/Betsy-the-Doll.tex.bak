@@ -1,0 +1,107 @@
+\documentclass[a5paper]{scrartcl}
+\usepackage{amssymb, amsmath} % needed for math
+\usepackage[utf8]{inputenc} % this is needed for umlauts
+\usepackage[USenglish]{babel} % this is needed for umlauts
+\usepackage[T1]{fontenc}    % this is needed for correct output of umlauts in pdf
+%\usepackage[margin=2.5cm]{geometry} %layout
+\usepackage{hyperref}   % links im text
+\usepackage{csquotes}
+\usepackage{stackengine}
+\usepackage{graphicx}
+\def\asterism{\par\vspace{1em}{\centering\scalebox{1.5}{%\\
+  \stackon[-0.5pt]{\bfseries*~*}{\bfseries*}}\par}\vspace{.5em}\par}
+
+\usepackage{yfonts,color}
+\usepackage{microtype}
+
+\title{Betsy the Doll}
+\author{The Dalek Emperor}
+
+\hypersetup{
+  pdfauthor   = {The Dalek Emperor},
+  pdfkeywords = {},
+  pdftitle    = {Betsy the Doll}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
+% Begin document                                                    %\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
+\begin{document}
+\maketitle
+
+\yinipar{\color{black}L}ike most people these days, I had a fucked up childhood. Who doesn't, right? My father took off before I was born and my mother was left to care for me on her own, a skill she was sorely lacking.  My mother slipped right back into the drug-addled, party lifestyle she'd enjoyed before I was born and had soon turned our two-bedroom apartment into an opium den. \\
+
+For the first five years of my life, I walked around in a confused, terrifying mist. The smoky air would flood down the hallway from our living room and slip under my bedroom door. It always seemed to linger for days.\\
+
+I know now that my mother wasn't a bad person, just a victim of her addictions. When she did have spare money, she would put food in the house or buy me clothes from Goodwill. The only pieces of furniture I had in my bedroom was a mattress set and a little blue and white toy chest. Not that I had a lot of toys to put in it, of course, just the three I had gotten for birthdays: one was an art kit, one was a red wagon, and the last, my pride and joy, was a doll named Betsy.\\
+
+Betsy was my best friend. We would have imaginary tea parties together, sleep together, and even take baths together. Sometimes, I even remember her voice.\\
+
+When I thought back on my conversations with the doll in adulthood, I realized that I was likely suffering from delusions, thanks to the always present butts of smoke that laid claim to the dingy hallways and drafty bedrooms of our small apartment. \\
+
+Still, I remember the sound of her voice: a pleasant, tingling lilt that was almost always coupled with a raucous giggle. I also remember the things that she said to me and the things she wanted me to do. She asked me to steal, usual food or pens and pencils. She wanted me to bring her forks and knives and hit the bad man who slept on our couch. It was always something and I would always get in trouble. But she wouldn't. When I told my mother who had put me up to these games she would scoff and shake her head. She never believed me. Adults never do.\\
+
+Around my 6th birthday I asked my mother for a birthday party. I wanted to invite the mean girls from school and serve them cake and ice cream to make them like me. I remember standing in the kitchen that day with such hopes, having just asked the most important question of my entire life. The glass bottle of coca-cola I held was shaking in my nervous hands. I waited with bated breath as my mother continued putting groceries away, almost as if she hadn't heard me. But I knew she had. Finally, just as I had failed a second time to muster the courage to repeat my question, she turned around and gave me a flippant shake of her head.\\
+
+\enquote{A birthday party? Laura, that's ridiculous, I can't afford to feed 15 children that aren't even mine. Hell, I can barely afford to feed you! You eat like an elephant, especially for a girl your size. Or, I'm sorry, Betsy does. There's barely anything left for me to eat around here, much less a classroom of other people's brats.}\\
+
+My face fell as she shook her head, mumbled something else under her breath and stumbled off into the living room. I heard the music go up then as more people walked in the door. Some left, some stayed; I never knew them either way. \\
+
+It simply wasn't fair, my mother threw parties all the time. What about me? I was a kid! All my friends had birthday parties and now the mean girls at school would know I was too poor to have one and they would tease me even more.\\
+
+I felt tears start to well in the corners of my eyes and I choked back a sob while I ran to my room and slammed the door behind me. Betsy was lying on the bed and smiling. She was always smiling. Usually it made me feel better but today it just made me angry. She just kept staring at me, smiling. She was going to tell me to do something bad, again. This was why mother wouldn't throw me a birthday party. It was because of all the trouble I got into because of her. This was her fault! Betsy didn't have to go to school and Betsy never got in trouble like I did. And in my young mind, I truly believed it was the doll, not my mother, who was to blame for everything.\\
+
+I snapped then. I screamed in indignant rage and I threw the bottle as hard as I could at the bed. It hit Betsy on her forehead and she fell on the floor. Good. I picked up the bottle and I hit her again and again. I thought I heard her laugh and I hit her harder. Then I laughed. When my rage was spent, I dragged Betsy to my toy chest and threw her in. I slammed it shut and kicked the chest against the wall; I never wanted to see Betsy again - ever.\\
+
+I never owned another doll after Betsy. About a week later the police came and two nice ladies took me to live in a new home in a new state, with food and toys and no drugs. The trunk went into storage and the wagon disappeared. I never saw my mother again. As I got older, my foster parents admitted she was in jail, doing 25 years. That was fine with me; I felt nothing for her anyway. I still had nightmares because of my life with that woman. But then slowly, I began to heal. I focused on doing well in school and I ignored my mother's letters from prison. She reached out to me several times in my 20's, as well, but I always declined her calls.\\
+
+That is, until this morning. I'm 30 now, with my own children and a loving, honest husband. I have a beautiful house, two dogs and a career as a social worker trying to make a difference for kids who had it bad like me. I'm happy, I'm steady, and I'm content. So when I got a voicemail from my mother informing me she had been paroled and that she wished to speak, decided to let her say her piece.\\
+
+Since the kids were home from school I went out into our shed in the backyard to return my mother's call. The shed was the children's domain and they used it to play in the summer. I sat on my old toy chest which was currently being used as tea party table and dialed the number she had left me.\\
+
+Three rings.\\
+
+\enquote{Hello? Laura?}\\
+
+\enquote{Hello, mother. How are you?}\\
+
+\enquote{Oh Laura, thank you for speaking to me. I know you have your own life now and a family. I would love to meet them someday! I just wanted to tell you how sorry I am. For everything.}\\
+
+\enquote{Mother, you are not meeting my kids - ever. And since you called me, I am going to what I have needed to say for years. The opium, the heroin, they destroyed you. And the worst of it is that you almost took me down with you. I was five. That was no home for a child.  Honestly, I'm surprised it took you so long to get caught.}\\
+
+\enquote{Laura, I know how it seems, but I honestly know nothing! Look, it hardly matters and I do understand why you would feel that way. Why you would hate me and not want me to meet your little ones. I learned a lot about forgiveness while I was away and just...oh Laura, I am so sorry about Betsy.}\\
+
+\enquote{Betsy?} I paused, confused. \enquote{Why would you care about her?}\\
+
+\enquote{I know, Laura, believe me I do. It was all my fault, the drugs, the partying. And Betsy, oh God, if I had only paid attention, if I had only known. She's gone and it's because of me.}\\
+
+As my mother began to cry, I tapped my fingers on the toy box, impatiently. The drugs had clearly fried her brain.\\
+
+\enquote{Mother,} I sighed. \enquote{Why are you talking about Betsy? And why do you even care? I know where Betsy is.} Right underneath me.\\
+
+\enquote{What are you talking about, Laura? Oh God, where is she?!}\\
+
+I shifted uncomfortably. \enquote{Well...Betsy's in the trunk, where she's always been.}\\
+
+There was a beat of stunning silence.\\
+
+\enquote{What do you mean your sister's in the trunk?}\\
+
+\enquote{Sister? What the hell are you talking about? Back on drugs so soon? 
+That's a record, even for you.  Betsy is a goddamn doll. I locked her in my toy box a few days before you got arrested for possession.}\\
+
+\enquote{Laura.. oh God, no...no... Laura, what have you done? I wasn't arrested because of the drugs, Laura, I was arrested because of Betsy's disappearance! You always called her your little doll, but we thought you knew! Oh God. We thought you knew. Laura, no, what have you done to my baby?!}\\
+
+My mind had gone blank and with no emotion I set the phone down next to me and stood up. I could hear the muffled sound of my mother's anguished cries and feel the dark clutch of possibility in my own chest. Memories were stirring in the back of my mind, threatening to flood forward into my consciousness. They pushed against a door in my mind that had been locked so tightly for so long that I had forgotten it was even there.\\
+
+Was it even possible? Could the trauma and the opium have really led me to believe that a small child was actually doll? Begging for food and utensils to eat with, asking me to protect her from the bad man?\\
+
+No...\\
+
+I slowly turned around and brought my eyes down the makeshift tea party table. Surely, it was too small; you couldn't fit a person in there. You couldn't. But then, what about a very small, starving, emaciated child? What about her, would she fit? Would an investigator even bother looking for a person in this chest? I knew I wouldn't. It was just too small. And I was sure we had opened the toy box at some point over the years, hadn't we? Or had something swimming in the dark recesses of my memories always stopped me? I couldn't remember ever seeing it open.
+I knelt down to the ground and opened the clasps. It would be better to not look. After all that I had overcome, this new life that I had earned for myself. It could all be undone by opening this toy box. I shouldn't open it. I should throw it in a landfill and forget it ever existed. I should not look inside...\\
+
+I opened the chest.\\
+
+I never had a doll. My mother never could afford to buy me one. I never had a wagon either, for that matter. But I did have a toy box; a pretty, blue and white toy box. And when I was five, I beat my little sister to death and put her in it. And now my life is over.\\
+\end{document}
