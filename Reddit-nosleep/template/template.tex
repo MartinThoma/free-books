@@ -1,0 +1,34 @@
+\documentclass[a5paper]{scrartcl}
+\usepackage{amssymb, amsmath} % needed for math
+\usepackage[utf8]{inputenc} % this is needed for umlauts
+\usepackage[USenglish]{babel} % this is needed for umlauts
+\usepackage[T1]{fontenc}  % this is needed for correct output of umlauts in pdf
+%\usepackage[margin=2.5cm]{geometry} %layout
+\usepackage{hyperref}  % links im text
+\usepackage{csquotes}
+\usepackage{stackengine}
+\usepackage{graphicx}
+\def\asterism{\par\vspace{1em}{\centering\scalebox{1.5}{%\\
+ \stackon[-0.5pt]{\bfseries*~*}{\bfseries*}}\par}\vspace{.5em}\par}
+
+\usepackage{yfonts,color}
+\usepackage{microtype}
+
+\title{{{title}}}
+\author{{{author}}}
+\date{{{date}}}
+
+\hypersetup{
+ pdfauthor  = {{{author}}},
+ pdfkeywords = {Reddit, nosleep},
+ pdftitle  = {{{title}}}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
+% Begin document                                                    %\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\\
+\begin{document}
+\maketitle
+
+{{content}}
+\end{document}
