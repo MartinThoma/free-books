@@ -7,3 +7,4 @@ Direct link to the PDF: [Death of Deepwood, Pennsylvania](https://github.com/Mar
 ## Credits
 
 * [How can I create documents in LaTeX using a calligraphic first letter for chapters?](http://tex.stackexchange.com/q/769/5645)
+* [rockaroni](http://www.reddit.com/user/rockaroni) drew an image ([source](http://imgur.com/gWgqX97))
