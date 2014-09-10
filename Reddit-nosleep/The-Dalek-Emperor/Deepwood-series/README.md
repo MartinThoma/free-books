@@ -1,4 +1,4 @@
-This is a series with 3 stories:
+This is a series from C. K. Walker with 3 stories:
 
 1. The Lost Town of Deepwood, Pennsylvania
 2. Return to Deepwood, Pennsylvania

@@ -1,0 +1,1 @@
+The Dalek Emperor is "C. K. Walker".
