@@ -1,0 +1,1 @@
+All stories in this folder are written by [SeriouZero](http://www.reddit.com/user/SeriouZero)
