@@ -9,3 +9,4 @@ that are more difficult to categorize.
 * Make sure that the first letter is `\yinipar{\color{black}L}`
 * Make sure that all `<` and `>` are away and all `&` and `#` are replaced.
 * Run spell-checker: `aspell --lang=en --mode=tex check doc.tex`
+* Check for numbers that might need a protected space `~` or `num` formatting: `\d+`
