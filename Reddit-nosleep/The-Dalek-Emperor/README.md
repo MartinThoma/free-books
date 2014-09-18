@@ -1,1 +1,1 @@
-The Dalek Emperor is "C. K. Walker".
+[The_Dalek_Emperor](http://www.reddit.com/user/The_Dalek_Emperor) is "C. K. Walker".
