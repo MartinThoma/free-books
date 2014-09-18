@@ -2,7 +2,7 @@ Source: http://www.reddit.com/r/nosleep/comments/2fl9pf/repressed_memories_are_m
 
 Author: [The\_Dalek\_Emperor](http://www.reddit.com/user/The_Dalek_Emperor)
 
-Direct link to the PDF: [Repressed Memories are Meant to Stay Dead](https://github.com/MartinThoma/free-books/blob/master/Reddit-nosleep/Repressed-Memories-are-Meant-to-Stay-Dead/Repressed-Memories-are-Meant-to-Stay-Dead.pdf?raw=true)
+Direct link to the PDF: [Repressed Memories are Meant to Stay Dead](https://github.com/MartinThoma/free-books/blob/master/Reddit-nosleep/The-Dalek-Emperor/Repressed-Memories-are-Meant-to-Stay-Dead/Repressed-Memories-are-Meant-to-Stay-Dead.pdf?raw=true)
 
 ## Credits
 
