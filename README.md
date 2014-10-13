@@ -36,3 +36,5 @@ More book sources
 =================
 * [Project Gutenberg Australia](http://gutenberg.net.au/)
 * [George Orwell's 1984 and Animal Farm](http://msxnet.org/orwell/)
+* [Reddit /r/nosleep](http://www.reddit.com/r/nosleep)
+* [Reddit /r/WritingPrompts](http://www.reddit.com/r/WritingPrompts)
