@@ -18,6 +18,18 @@ import glob
 
 
 def strip_end(text, suffix):
+    """
+    Remove suffix from text.
+
+    Parameters
+    ----------
+    text : str
+    suffix : str
+
+    Returns
+    -------
+    str
+    """
     if not text.endswith(suffix):
         return text.strip()
     return text[:len(text)-len(suffix)].strip()
@@ -91,11 +103,13 @@ def main(url):
     content = paragraph.sub(r'\\enquote{\1}', content)
     paragraph = re.compile('&quot;(.*?)&quot;')
     content = paragraph.sub(r'\\enquote{\1}', content)
-    content = "".join(map(str, BeautifulSoup.BeautifulSoup(content).div.contents))
+    content = content.replace('&quot;', '"')
+    content = "".join(map(str,
+                          BeautifulSoup.BeautifulSoup(content).div.contents))
     content = content.strip()
     # Remove any non-ascii symbol
     content = ''.join([i if ord(i) < 128 else ' ' for i in content])
-    content = "\yinipar{\color{black}%s}" % content[0] + content[1:]
+    # content = "\yinipar{\color{black}%s}" % content[0] + content[1:]
 
     # Create draft
     if not os.path.exists(title_url):
