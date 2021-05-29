@@ -110,7 +110,7 @@ def generate_author(author, books) -> str:
             book = value[1]
             pdf_link = get_file_link(meta_path, book, ".pdf")
             base = "https://github.com/MartinThoma/free-books/tree/master/"
-            project_folder = quote(base + os.path.dirname(meta_path.split("/free-books/")[1]))
+            project_folder = base + quote(os.path.dirname(meta_path.split("/free-books/")[1]))
             md += f"* [{book.title}]({project_folder}) ([PDF]({pdf_link}))\n"
         else:
             # It's a series!
