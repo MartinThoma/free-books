@@ -3,7 +3,8 @@ free-books
 
 A repository for free books. The goal of this project is to provide
 books that are fun to read and NOT to provide exact copies of the
-original books. 
+original books. Everything in this repository must be legal; the
+author has to give permission to add the book here.
 
 The sense of the texts should not get changed, but I want correct
 punctuation and correct spelling of words and no footnotes that 
