@@ -15,9 +15,9 @@ As your ebook reader might make navigation difficult, [jump directly to the down
 Sources
 =======
 
-* http://www.sandroid.org/GutenMark/
-* https://www.reddit.com/r/writing-promts
-* https://www.reddit.com/r/nosleep/
+* [GutenMark Project](http://www.sandroid.org/GutenMark/)
+* [Reddit /r/nosleep](http://www.reddit.com/r/nosleep)
+* [Reddit /r/WritingPrompts](http://www.reddit.com/r/WritingPrompts)
 
 Rules for books
 ===============
@@ -40,5 +40,3 @@ More book sources
 =================
 * [Project Gutenberg Australia](http://gutenberg.net.au/)
 * [George Orwell's 1984 and Animal Farm](http://msxnet.org/orwell/)
-* [Reddit /r/nosleep](http://www.reddit.com/r/nosleep)
-* [Reddit /r/WritingPrompts](http://www.reddit.com/r/WritingPrompts)
