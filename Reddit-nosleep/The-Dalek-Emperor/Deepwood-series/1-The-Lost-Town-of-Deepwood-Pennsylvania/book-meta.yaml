@@ -1,0 +1,14 @@
+book_meta_version: 1
+language: en
+title: The Lost Town of Deepwood, Pennsylvania
+author: The_Dalek_Emperor
+series:
+  title: Deepwood
+  order: 1
+original:
+  language: en
+  title: The Lost Town of Deepwood, Pennsylvania
+free_books_project:
+  source: http://www.reddit.com/r/nosleep/comments/1xn677/the_lost_town_of_deepwood_pennsylvania/
+  source_file: The-Lost-Town-of-Deepwood-Pennsylvania.tex
+

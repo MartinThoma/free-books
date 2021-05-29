@@ -1,0 +1,14 @@
+book_meta_version: 1
+language: en
+title: Death of Deepwood, Pennsylvania
+author: The_Dalek_Emperor
+series:
+  title: Deepwood
+  order: 3
+original:
+  language: en
+  title: Death of Deepwood, Pennsylvania
+free_books_project:
+  source: http://www.reddit.com/r/nosleep/comments/29htgx/return_to_deepwood_pennsylvania/
+  source_file: Death-of-Deepwood,-Pennsylvania.tex
+

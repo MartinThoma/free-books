@@ -1,0 +1,11 @@
+book_meta_version: 1
+language: en
+title: The life in the machine
+author: unpatriotic
+original:
+  language: en
+  title: The life in the machine
+free_books_project:
+  source: http://www.reddit.com/r/nosleep/comments/u7zc2/the_life_in_the_machine/?limit=500
+  source_file: The-life-in-the-machine.tex
+

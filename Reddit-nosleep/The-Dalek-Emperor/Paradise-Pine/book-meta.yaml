@@ -1,0 +1,11 @@
+book_meta_version: 1
+language: en
+title: Paradise Pine
+author: The_Dalek_Emperor
+original:
+  language: en
+  title: Paradise Pine
+free_books_project:
+  source: http://www.reddit.com/r/nosleep/comments/1vausq/paradise_pine/
+  source_file: Paradise-Pine.tex
+

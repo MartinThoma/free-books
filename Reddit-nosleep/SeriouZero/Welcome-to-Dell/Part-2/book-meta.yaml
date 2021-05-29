@@ -1,0 +1,39 @@
+book_meta_version: 1
+
+# What is the language of the current document?
+#   Use a 2-charater ISO-639-1 language code
+language: en
+
+# If it's part of a series
+series:
+  # Title of the series (in the current language, not the original language)
+  title: "Welcome to Dell: The customer service call that fucked my life"
+
+  # Ordering of the book series, starting at 1
+  order: 2
+
+# What is the title of the book?
+#   If the book is translated, use the translated title here
+title: Part 2
+
+# Name of the original author
+author: SeriouZero
+
+# Data about the original document. This is refering to the language in which
+# the original author has written the book
+original:
+  # What is the language of the original document?
+  #   Use a 2-charater ISO-639-1 language code
+  language: en
+
+  # Use the title in the original language
+  title: Part 2
+
+# Metadata that helps us to organize this repository
+free_books_project:
+  # Where does the document come from?
+  source: http://www.reddit.com/r/nosleep/comments/2gmffh/welcome_to_dell_part_2_the_customer_service_call/
+
+  # Which file contains the book data?
+  source_file: Welcome-to-Dell-Part-2.tex
+

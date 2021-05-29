@@ -1,0 +1,11 @@
+book_meta_version: 1
+language: en
+title: Betsy the Doll
+author: Walker, C. K. 
+original:
+  language: en
+  title: Betsy the Doll
+free_books_project:
+  source: http://www.reddit.com/r/nosleep/comments/1u94ez/betsy_the_doll/
+  source_file: Betsy-the-Doll.tex
+

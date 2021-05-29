@@ -1,0 +1,14 @@
+book_meta_version: 1
+language: en
+title: Return to Deepwood, Pennsylvania
+author: The_Dalek_Emperor
+series:
+  title: Deepwood
+  order: 2
+original:
+  language: en
+  title: Return to Deepwood, Pennsylvania
+free_books_project:
+  source: http://www.reddit.com/r/nosleep/comments/29htgx/return_to_deepwood_pennsylvania/
+  source_file: Return-to-Deepwood,-Pennsylvania.tex
+

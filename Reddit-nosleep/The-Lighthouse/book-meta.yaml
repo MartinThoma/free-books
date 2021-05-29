@@ -1,0 +1,11 @@
+book_meta_version: 1
+language: en
+title: The Lighthouse
+author: PrestonFarlow
+original:
+  language: en
+  title: The Lighthouse
+free_books_project:
+  source: https://wh.reddit.com/r/nosleep/comments/43p7la/the_lighthouse/
+  source_file: The-Lighthouse.tex
+

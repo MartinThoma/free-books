@@ -9,6 +9,8 @@ The sense of the texts should not get changed, but I want correct
 punctuation and correct spelling of words and no footnotes that 
 inform about these corrections.
 
+As your ebook reader might make navigation difficult, [jump directly to the download page](https://github.com/MartinThoma/free-books/blob/master/direct-download.md).
+
 
 Sources
 =======

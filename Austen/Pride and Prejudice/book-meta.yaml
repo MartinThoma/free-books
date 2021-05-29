@@ -1,0 +1,31 @@
+book_meta_version: 1
+
+# What is the language of the current document?
+#   Use a 2-charater ISO-639-1 language code
+language: en
+
+# What is the title of the book?
+#   If the book is translated, use the translated title here
+title: Pride and Prejudice
+
+# Name of the original author
+author: Austen, Jane
+
+# Data about the original document. This is refering to the language in which
+# the original author has written the book
+original:
+  # What is the language of the original document?
+  #   Use a 2-charater ISO-639-1 language code
+  language: en
+
+  # Use the title in the original language
+  title: Pride and Prejudice
+
+# Metadata that helps us to organize this repository
+free_books_project:
+  # Where does the document come from?
+  source: http://www.sandroid.org/GutenMark/wasftp.GutenMark/MarkedTexts/
+
+  # Which file contains the book data?
+  source_file: pride-and-prejudice.tex
+
