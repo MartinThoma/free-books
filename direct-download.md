@@ -11,8 +11,6 @@ You can use this TinyURL: https://tinyurl.com/readfreenow
 * Sherlock Holmes:
     * A Study in Scarlet ([PDF](https://raw.githubusercontent.com/MartinThoma/free-books/master/Doyle/Sherlock%20Holmes/01%20-%20A%20Study%20in%20Scarlet/01-A-Study-in-Scarlet.pdf))
     * The Sign of the Four ([PDF](https://raw.githubusercontent.com/MartinThoma/free-books/master/Doyle/Sherlock%20Holmes/02%20-%20The%20Sign%20of%20the%20Four/02-The-Sign-of-the-Four.pdf))
-    * The Hound of the Baskervilles ([PDF](https://raw.githubusercontent.com/MartinThoma/free-books/master/Doyle/Sherlock%20Holmes/03%20-%20The%20Hound%20of%20the%20Baskervilles/03-The-Hound-of-the-Baskervilles.pdf))
-    * The Valley of Fear ([PDF](https://raw.githubusercontent.com/MartinThoma/free-books/master/Doyle/Sherlock%20Holmes/04%20-%20The%20Valley%20of%20Fear/04-The-Valley-of-Fear.pdf))
 
 ### NSA_PR_DPRTMNT; DrowningDream
 * [Lucifer in Paradise](https://github.com/MartinThoma/free-books/tree/master/Reddit-writingpromt/Lucifer-in-Paradise) ([PDF](https://raw.githubusercontent.com/MartinThoma/free-books/master/Reddit-writingpromt/Lucifer-in-Paradise/Lucifer-in-Paradise.pdf))
