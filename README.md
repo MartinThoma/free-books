@@ -14,8 +14,10 @@ As your ebook reader might make navigation difficult, [jump directly to the down
 
 Sources
 =======
-At the moment, the only book is from
-http://www.sandroid.org/GutenMark/wasftp.GutenMark/MarkedTexts/
+
+* http://www.sandroid.org/GutenMark/
+* https://www.reddit.com/r/writing-promts
+* https://www.reddit.com/r/nosleep/
 
 Rules for books
 ===============
